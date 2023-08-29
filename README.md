@@ -11,7 +11,7 @@
 - [License](#license)
 
 ## Introduction
-Ukraine Cyber Defense is an educational RPG game that aims to teach essential cyber security skills in the context of a real-world scenario. The game takes place in Ukraine and focuses on various cyber missions to defend against adversarial actions. The game is designed to be both immersive and educational, offering real-world examples and interactive tasks.
+Ukraine Cyber Defense is an educational RPG game that aims to teach essential cyber security skills in the context of a real-world scenario. The game takes place in Ukraine and focuses on various cyber missions to defend against adversarial actions. The game is designed to be both immersive and educational, offering real-world examples and interactive tasks. Players assume the role of a cyber operative working to secure communication, gather intelligence, and deploy various technologies to defend the nation.
 
 ## Installation
 1. Clone the repository to your local machine.
@@ -21,16 +21,29 @@ Ukraine Cyber Defense is an educational RPG game that aims to teach essential cy
 ## Requirements
 - Python 3.x
 - Colorama library for colored terminal output
-- Optional: Raspberry Pi, Arduino, and other hardware for more realistic mission simulations
+- Optional: Raspberry Pi, Arduino, and other hardware for replicating mission simulations in real life
 
 ## Gameplay
 The game is menu-driven, allowing you to navigate between different cities in Ukraine, each offering unique missions. You have an inventory system to keep track of items gained during missions. Missions are designed to teach a variety of cyber security skills like WiFi sniffing, signal jamming, encryption, and more. 
 
-### Inventory System
-Players have an inventory where they can store items acquired during missions. This adds an extra layer of strategy, as some items can be useful in later missions.
+### Inventory System(work in progress)
+Players have an inventory where they collect items and tools needed for missions. The inventory plays a crucial role in the gameplay, as certain missions may require specific tools that the player has to acquire beforehand.
+
+## Cities(work in Progress)
+The game is divided into multiple cities like Kyiv, Lviv, Odessa, Dnipro, and Kharkiv. Each city has its own set of missions tailored to various cybersecurity and technical aspects. Players can move from one city to another as the game progresses.
+
+## Technical Aspects
+Real-world Commands
+The game integrates real-world commands and activities into its missions, allowing players to experience the feel of actual cyber operations.
+
+## Realistic Scenarios
+Missions are based on realistic cyber warfare scenarios, making the educational experience as practical as possible.
+
+## Educational Outcomes
+Players will come away with a strong foundational understanding of various cybersecurity principles, from encryption to network sniffing, and even some physical hardware applications. The game is intended to serve as an educational tool for individuals looking to enter the cybersecurity field or simply improve their technical skills.
 
 ## Missions
-The game offers a variety of missions, each designed to teach a specific skill. Here's a list of some missions:
+Players can undertake missions that involve a variety of tasks such as secure communications, signal triangulation, GPS spoofing, WiFi sniffing, and more. Each mission is designed to be both educational and engaging, often requiring the player to input real-world commands and make decisions based on their understanding of the mission objectives. Here's a list of some missions:
 
 ### Secure Comms (Kyiv)
 - **Objective:** Secure the communication channels.

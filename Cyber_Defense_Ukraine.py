@@ -35,7 +35,7 @@ class CyberRPG:
 
         print(blue + "|Welcome to Cyber Defense Ukraine|")
         time.sleep(2)
-        print(blue + "|===An Electronic Warefare RPG===|")
+        print(blue + "|===An Electronic Warfare RPG====|")
         time.sleep(2)
         print(yellow + "|!!!!!!!!!!SLAVA_UKRAINE!!!!!!!!!|")
         print(yellow + "|!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!|")

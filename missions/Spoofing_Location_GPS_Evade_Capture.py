@@ -8,7 +8,7 @@ def run(player):
     print(f"{player.yellow}Scene 1: You are in your secret underground lair filled with high-tech equipment. Your mission starts now!{player.reset}")
     time.sleep(2)
     print(f"{player.blue}Task 1: The first step in GPS spoofing is to understand the GPS signal structure. Which of the following is a GPS signal component?{player.reset}")
-    task1_choice = input(f"{player.blue}Options: [Pseudorange, Frame rate, Pixel density, Refresh rate] Choose the correct component: {player.reset}")
+    task1_choice = input(f"{player.blue}Options: [pseudorange, Frame rate, Pixel density, Refresh rate] Choose the correct component: {player.reset}")
     
     if task1_choice.lower() == "pseudorange":
         print(f"{player.green}Excellent! Pseudorange is a crucial component of a GPS signal. You're one step closer to completing your mission.{player.reset}")

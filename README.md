@@ -1,6 +1,6 @@
 
 # Ukraine Cyber Defense
-
+![Ukraine Cyber Defense](https://i.redd.it/n32mwz38kslb1.png)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
